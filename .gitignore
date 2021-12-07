@@ -1,0 +1,4 @@
+.vscode/
+*cache*
+out*.png
+gif_output
